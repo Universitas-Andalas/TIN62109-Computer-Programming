@@ -27,3 +27,5 @@
 | 3   | Methods and Structures for Robust Code | 3.1 Error Handling<br><br>3.2 Files<br><br>3.3 Tuples<br><br>3.4 Dictionaries<br><br>**Module 3 Lab: Method and Structure Practice** |
 | 4   | Proper Functions | 4.1 Script Environment & Command-Line Arguments<br><br>4.2 Variable Scope<br><br>4.3 Documenting Functions (docstrings)<br><br>4.4 Documenting Functions (pydoc)<br><br>Module 4 Lab: Function Practice |
 | **5** | **Final Evaluation** | **Final Coding Assignment** |
+
+[Return to the course main page](https://github.com/Universitas-Andalas/TIN62109-Computer-Programming)
