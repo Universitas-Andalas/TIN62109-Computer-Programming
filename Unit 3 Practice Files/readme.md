@@ -1,4 +1,4 @@
-# Unit 3 (Five Weeks)**
+# Unit 3
 
 **Overview**
 
