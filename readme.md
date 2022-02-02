@@ -1,4 +1,4 @@
-**TIN62109** **–** **Computer Programming (3/P)**
+*TIN62109** **–** **Computer Programming (3/P)*
 
 **Description**
 
