@@ -32,11 +32,15 @@ Students must enrol themselves in iLearn ([https://eng.ilearn.unand.ac.id/](http
 
 For the use of ease and implementation, this course will focus on using Visual Studio Code ([https://code.visualstudio.com/](https://code.visualstudio.com/)) Integrated Development Environment (IDE). Visual Studio Code is a lightweight but powerful source code editor which runs on the desktop and is available for Windows, macOS, Linux, and Chromebook. Course modules with the practices will use the Visual Studio Code.
 
+**Source**
+
+[Microsoft Education](https://education.microsoft.com/)
+
   
 
 ## Course Content
 
-**Unit 1 (Five Weeks)**
+**Unit 1**
 
 **Overview**
 
@@ -66,7 +70,7 @@ For the use of ease and implementation, this course will focus on using Visual S
 | 4   | Nesting and Loops | 4.1: Nested Conditionals<br><br>4.2: Escape Sequences<br><br>4.3: 'while' Loops and Incrementing<br><br>4.4: 'while' Boolean Loops<br><br>**Module 4 Lab: Nesting and Loops Practice**<br><br>Module 4 Project |
 | **5** | **Unit Assessment** | **Unit 1 Project** |
 
-**Unit 2 (Five Weeks)**
+**Unit 2**
 
 **Overview**
 
@@ -98,7 +102,7 @@ For the use of ease and implementation, this course will focus on using Visual S
 | 4   | Working with Files | 4.1: File import, open, and read<br><br>4.2: File .readlines() and .close() Methods<br><br>4.3: File .readline() and .strip() Methods<br><br>4.4: File .write() and .seek() Methods<br><br>**Module 4 Lab: Working with Files Practice**<br><br>Module 4 Coding Assignment |
 | **5** | **Final Evaluation** | **Final Coding Assignment** |
 
-**Unit 3 (Five Weeks)**
+**Unit 3**
 
 **Overview**
 
