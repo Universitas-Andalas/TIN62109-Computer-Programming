@@ -4,7 +4,7 @@ First of all, download and install the Visual Studio Code from [this link](https
 
 Once the installation is finished, the Jupyter Notebook is in your VS Code.
 
-## Selecting a Kernel
+## Visual Studio Code and the Python Extension
 
 Before experiencing Python, install the Python extension for VS Code from the Visual Studio Marketplace. The Python extension is named Python and it's published by Microsoft. For a detail explanation please visit this link to the [Microsoft Visual Studi Code's website](https://code.visualstudio.com/docs/python/python-tutorial).
 
