@@ -1,7 +1,5 @@
 # TIN62109 – Computer Programming (3/P)
 
-**Description**
-
 The course is about computer programming, focusing on the introduction to Python. It is a beginning course (not for experienced programmers) in which students can learn and practice coding.  The course includes video content, practice labs, and coding projects.
 
 The course content is presented in three units.
@@ -12,11 +10,11 @@ The course content is presented in three units.
 
 The course content is inline to Microsoft Certification in the Data Science Certification route.
 
-**Course Timing**
+## Course Timing
 
 This course will be delivered over approximately 20 weeks, at a rate of one module per week. An average beginner student can complete the course instruction and core lab assignments in 3-4 hours per module. Additional study time can be allocated to exploring suggested resources and experimenting with knowledge gained while completing the practice tasks and labs.
 
-**Grading**
+## Grading
 
 |     |     |
 | --- | --- |
@@ -24,15 +22,17 @@ This course will be delivered over approximately 20 weeks, at a rate of one modu
 | Module coding assignments | 20% |
 | Final coding assignment (Projects) | 30% |
 
-**Learning Management Systems**
+## Learning Management Systems
 
 Students must enrol themselves in iLearn ([https://eng.ilearn.unand.ac.id/](https://eng.ilearn.unand.ac.id/)) and course groups in Microsoft Teams ([http://portal.office.com/](http://portal.office.com/)). Microsoft PowerPoint slides and other course-related files will be provided in both systems.
 
-**Tool**
+## Tool
 
 For the use of ease and implementation, this course will focus on using Visual Studio Code ([https://code.visualstudio.com/](https://code.visualstudio.com/)) Integrated Development Environment (IDE). Visual Studio Code is a lightweight but powerful source code editor which runs on the desktop and is available for Windows, macOS, Linux, and Chromebook. Course modules with the practices will use the Visual Studio Code.
 
-**Source**
+[Read this guidance](https://github.com/Universitas-Andalas/TIN62109-Computer-Programming/blob/main/jupyter.md) to install the required extensions after installing the Visual Studio Code.
+
+## Source
 
 [Microsoft Education](https://education.microsoft.com/)
 
