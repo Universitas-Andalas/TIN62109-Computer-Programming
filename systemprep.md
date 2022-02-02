@@ -1,4 +1,4 @@
-# Working With the Jupyter Notebook
+# Course Preparation
 
 First of all, download and install the Visual Studio Code from [this link](https://code.visualstudio.com/Download). After the installation, the next step is to launch the Visual Studio Code application. Type “jupyter notebook” in the extension search box. Select the result (Jupyter) and click on the Install button displayed in the middle of the screen.
 
