@@ -18,7 +18,6 @@ This course will be delivered over approximately 20 weeks, at a rate of one modu
 
 **Grading**
 
-|     |     |
 | --- | --- |
 | Module assessments (Quizzes, Mid and Final semester assessments) | 50% |
 | Module coding assignments | 20% |
