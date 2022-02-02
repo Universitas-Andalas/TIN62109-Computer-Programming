@@ -27,3 +27,6 @@
 | 3   | Conditionals | 3.1: Conditionals: Boolean Strings<br><br>3.2: Conditionals: Comparison Operators<br><br>3.3: String Comparison<br><br>3.4: Conditionals, elif, and Casting<br><br>3.5: Conditionals, Type, and Mathematics Extended<br><br>**Module 3 Lab: Conditionals Practice**<br><br>Module 3 Project |
 | 4   | Nesting and Loops | 4.1: Nested Conditionals<br><br>4.2: Escape Sequences<br><br>4.3: 'while' Loops and Incrementing<br><br>4.4: 'while' Boolean Loops<br><br>**Module 4 Lab: Nesting and Loops Practice**<br><br>Module 4 Project |
 | **5** | **Unit Assessment** | **Unit 1 Project** |
+
+
+[Return to the course main page](https://github.com/Universitas-Andalas/TIN62109-Computer-Programming)
