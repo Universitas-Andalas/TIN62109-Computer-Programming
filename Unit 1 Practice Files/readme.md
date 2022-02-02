@@ -17,3 +17,4 @@ Objectives
 	• Build while loops, increment variables
 	• Troubleshoot errors
 	• Complete coding assignments related to the content of each module
+
