@@ -30,7 +30,7 @@ Students must enrol themselves in iLearn ([https://eng.ilearn.unand.ac.id/](http
 
 For the use of ease and implementation, this course will focus on using Visual Studio Code ([https://code.visualstudio.com/](https://code.visualstudio.com/)) Integrated Development Environment (IDE). Visual Studio Code is a lightweight but powerful source code editor which runs on the desktop and is available for Windows, macOS, Linux, and Chromebook. Course modules with the practices will use the Visual Studio Code.
 
-[Read this guidance](https://github.com/Universitas-Andalas/TIN62109-Computer-Programming/blob/main/systemprep.md) to install the required extensions after installing the Visual Studio Code.
+[Read this guidance](https://github.com/Universitas-Andalas/TIN62109-Computer-Programming/blob/main/systemprep.md) to install other required extensions and tools after installing the Visual Studio Code.
 
 ## Source
 
