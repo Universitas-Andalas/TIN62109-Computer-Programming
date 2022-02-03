@@ -2,7 +2,7 @@
 
 First of all, download and install the Visual Studio Code from [this link](https://code.visualstudio.com/Download). After the installation, the next step is to launch the Visual Studio Code application. Type “jupyter notebook” in the extension search box. Select the result (Jupyter) and click on the Install button displayed in the middle of the screen.
 
-Once the installation is finished, the Jupyter Notebook is in your VS Code. [Standalone Jupyter Notebook installation is available](https://github.com/Universitas-Andalas/TIN62109-Computer-Programming/blob/main/systemprep.md#install-jupyter-notebook-jupyterlab)
+Once the installation is finished, the Jupyter Notebook is in your VS Code. Standalone Jupyter Notebook installation is available below.
 
 ## Install Visual Studio Code and the Python Extension
 
