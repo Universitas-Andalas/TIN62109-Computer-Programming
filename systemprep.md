@@ -24,6 +24,17 @@ The system install of Python on macOS is not supported. Instead, an installation
 
 For a detail explanation please visit this link to the [Microsoft Visual Studi Code's website](https://code.visualstudio.com/docs/python/python-tutorial).
 
+## Install Jupyter Notebook (JupyterLab)
+
+Install JupyterLab with pip:
+
+    pip install jupyterlab
+
+Once installed, launch JupyterLab with:
+
+    jupyter-lab
+
+
 ## Creating a New Jupyter Notebook File
 
 To create a new Jupyter Notebook file, press Ctrl-Shift-P (Shift-Cmd-P for macOS) to bring the Command Palette up. Type “Jup” and you will see a list of options. Select “Jupyter Notebook: Create New Blank Notebook”
