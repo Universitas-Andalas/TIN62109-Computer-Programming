@@ -28,4 +28,6 @@
 | 4   | Proper Functions | 4.1 Script Environment & Command-Line Arguments<br><br>4.2 Variable Scope<br><br>4.3 Documenting Functions (docstrings)<br><br>4.4 Documenting Functions (pydoc)<br><br>Module 4 Lab: Function Practice |
 | **5** | **Final Evaluation** | **Final Coding Assignment** |
 
+The course main page is at https://eng.ilearn.unand.ac.id
+
 [Return to the course main page](https://github.com/Universitas-Andalas/TIN62109-Computer-Programming)
