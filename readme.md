@@ -1,6 +1,6 @@
 # TIN62109 – Computer Programming (3/P)
 
-The course is about computer programming, focusing on the introduction to Python. It is a beginning course (not for experienced programmers) in which students can learn and practice coding.  The course includes video content, practice labs, and coding projects.
+The course is about computer programming, focusing on the introduction to Python. It is a beginning course (not for experienced programmers) in which students can learn and practice coding.  The course includes video content, practice labs, and coding projects. This repository is a collection of the course's practice files.
 
 The course content is presented in three units.
 
