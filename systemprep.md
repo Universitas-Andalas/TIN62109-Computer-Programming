@@ -35,12 +35,15 @@ Once installed, launch JupyterLab with:
     jupyter-lab
 
 
-## Creating a New Jupyter Notebook File
+## Testing
 
-To create a new Jupyter Notebook file, press Ctrl-Shift-P (Shift-Cmd-P for macOS) to bring the Command Palette up. Type “Jup” and you will see a list of options. Select “Jupyter Notebook: Create New Blank Notebook”
+Put this code in the editor and run it.
 
-A new blank Jupyter Notebook will be created.
+    print("Hello Jurusan Teknik Industri Universitas Andalas")
 
-## Running Python Code
+the output should be:
 
-Finally, test the Jupyter Notebook by writing some Python statements. Press Ctrl-Enter to run the current cell, or press Shift-Enter to run the current cell and move to the next cell (if the current cell is the last cell in the notebook, a new cell will be created).
+    Hello Jurusan Teknik Industri Universitas Andalas
+    
+If all is well, the system is ready.
+  
