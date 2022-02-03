@@ -22,7 +22,7 @@ The system install of Python on macOS is not supported. Instead, an installation
 
     brew install python3
 
-For a detail explanation please visit this link to the [Microsoft Visual Studi Code's website](https://code.visualstudio.com/docs/python/python-tutorial).
+For a detail explanation please visit this link to the [Microsoft Visual Studio Code's website](https://code.visualstudio.com/docs/python/python-tutorial).
 
 ## Install Jupyter Notebook
 
