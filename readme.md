@@ -8,7 +8,6 @@ The course content is presented in three units.
 * [Unit 2](https://github.com/Universitas-Andalas/TIN62109-Computer-Programming/blob/main/Unit%202%20Practice%20Files/readme.md) focuses on Python data structures such as strings, lists, and range sequences, as well as methods for working with these structures. Students will be introduced to data structures and files in Python 3 and be ready for more advanced Python learning.
 * [Unit 3](https://github.com/Universitas-Andalas/TIN62109-Computer-Programming/blob/main/Unit%203%20Practice%20Files/readme.md) focuses on using Python to develop sustainable code. Students will be introduced to data structures and files in Python 3 and be ready for more advanced Python learning.
 
-The course content is inline to Microsoft Certification in the Data Science Certification route.
 
 ## Course Timing
 
